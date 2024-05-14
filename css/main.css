@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.auth-window {
+    position: absolute;
+    bottom: 50%;
+    right: 45%;
+}
+
+.document-list {
+    position: absolute;
+    right: 45%;
+}
